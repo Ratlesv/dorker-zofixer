@@ -1,4 +1,4 @@
-# Google-Dorker-ZOFixer- 
+# Google-Dorker-ZOFixer
                                                     
 An unofficial CLI Google Dorker of ZOFixer
 
