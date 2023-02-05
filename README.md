@@ -1,11 +1,4 @@
-# Google-Dorker-ZOFixer-
-An unofficial CLI Google Dorker of ZOFixer
-
-  ____ _     ___    ________  _____ _               
- / ___| |   |_ _|  |__  / _ \|  ___(_)_  _____ _ __ 
-| |   | |    | |     / / | | | |_  | \ \/ / _ \ '__|
-| |___| |___ | |    / /| |_| |  _| | |>  <  __/ |   
- \____|_____|___|  /____\___/|_|   |_/_/\_\___|_|   
+# Google-Dorker-ZOFixer- 
                                                     
 An unofficial CLI Google Dorker of ZOFixer
 
